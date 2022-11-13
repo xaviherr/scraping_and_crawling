@@ -3,7 +3,7 @@ Web scraping y Web crawling con Python para obtener
 noticias relacionadas a medidas gubernamentales en el 
 Perú durante la pandemia por COVID-19.
 
-![img.png](politic_image.png)
+![img.png](images/politic_image.png)
 
 ## Justificación
 Nuestro compañero necesita datos para su tesis
