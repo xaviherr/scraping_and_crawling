@@ -1,5 +1,10 @@
 # Scraping and crawling
-Web scraping y Web crawling con Python
+Web scraping y Web crawling con Python para obtener 
+noticias relacionadas a medidas gubernamentales en el 
+Perú durante la pandemia por COVID-19.
+
+## Justificación
+Nuestro compañero necesita datos para su tesis
 
 ## Páginas evaluadas
 Noticias MINSA:
