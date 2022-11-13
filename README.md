@@ -10,7 +10,13 @@ Nuestro compañero necesita datos para su tesis
 
 ## Páginas evaluadas
 Noticias MINSA:
-> https://www.gob.pe/institucion/minsa/noticias?filter%5Bterms%5D=covid&amp;filter%5Btype%5D=&amp;sheet=
+> https://www.gob.pe/institucion/minsa/noticias
+
+Noticias La República:
+> https://larepublica.pe/
+
+Noticias Gestión:
+> https://gestion.pe/
 
 Para buscar los elementos de interés, filtraremos los enlaces relacionados a covid:
 > soup.select("a[href*='covid']")
